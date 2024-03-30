@@ -38,7 +38,7 @@ Activar el modo macro para que se pueda ejecutar
 
 Puedes comprar el libro por el siguiente boton de Mercado Pago: 
 
-- [Comprar](URL_A_UNA_GUIA)
+- [Comprar]([URL_A_UNA_GUIA](https://mpago.li/2ZC7ovL))
 
 ![Ejemplo1](img/1.png)
 
@@ -46,4 +46,4 @@ Puedes comprar el libro por el siguiente boton de Mercado Pago:
 
 ![Ejemplo1](img/YT1.png)
 
-- [Comprar](URL_A_UNA_GUIA)
+- [Comprar]([URL_A_UNA_GUIA](https://mpago.li/2ZC7ovL))
