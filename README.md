@@ -1,5 +1,7 @@
 # EL PAGO SE ESTA PROCESANDO....
 
+El archivo se descargara en un .zip, toca descomprimir y encontraras el Libro de Excel...
+
 # Libro de Excel para Transformación de Coordenadas Colombianas
 
 ## Descripción
