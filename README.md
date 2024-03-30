@@ -38,5 +38,8 @@ Puedes comprar el libro por el siguiente boton de Mercado Pago:
 
 ![Ejemplo1](img/1.png)
 
+![Ejemplo1](img/2.png)
 
+![Ejemplo1](YT1.png)
 
+- [Comprar](URL_A_UNA_GUIA)
