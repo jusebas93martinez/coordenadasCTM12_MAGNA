@@ -1,4 +1,4 @@
-# EL PAGO SE ESTA PROCESANDO....
+
 
 El archivo se descargara en un .zip, toca descomprimir y encontraras el Libro de Excel...
 
@@ -34,11 +34,7 @@ Para utilizar este libro es necesario tener una versión de Microsoft Excel que 
 
 Activar el modo macro para que se pueda ejecutar
 
-## forma de adquisición
 
-Puedes comprar el libro por el siguiente boton de Mercado Pago: 
-
-- [Comprar](https://mpago.li/2ZC7ovL)
 
 ![Ejemplo1](img/1.png)
 
